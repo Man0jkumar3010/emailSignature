@@ -1,0 +1,5 @@
+version: "3"
+
+services:
+  minio:
+    image: minio:RELEASE.2022-11-11
