@@ -1,5 +1,5 @@
-import { useRef } from "react";
 import '../style/preview.css';
+import { useRef } from "react";
 
 
 export const Preview = ({ name, desgination, mail, phone, imageUrl }) => {
